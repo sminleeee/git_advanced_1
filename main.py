@@ -11,7 +11,7 @@ def even_list(int_list: List[int]) -> List[int]:
 
     
 def sum_of_squares_of_even(even_int_list: List[int]) -> int:
-    
+    pass
     
     
 # Main function

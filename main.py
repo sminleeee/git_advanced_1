@@ -1,12 +1,6 @@
 from typing import List
 
 def even_list(int_list: List[int]) -> List[int]:
-    res_list=[]
-    for i in List:
-        if i%2==0:
-            res_list.append(i)
-    
-    return res_list
     
 
     
